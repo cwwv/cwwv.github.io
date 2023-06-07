@@ -1,8 +1,9 @@
 var aa = [
     'https://cwwz.github.io/n',
-    'https://cwwz.github.io/n',
-    'https://cwwz.github.io/n',
-    'https://cwwz.github.io/n',
+    'https://cwwz.github.io/z',
+    'https://cwwz.github.io/x',
+    'https://cwwz.github.io/c',
+    'https://cwwz.github.io/v',
     ];
 var sj = aa[Math.floor(Math.random()*aa.length)];
 
